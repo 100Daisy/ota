@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1706049330,
+      "filename": "incremental_ota_update.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "romtype": "nightly",
+      "size": 302010,
+      "url": "https://mirrors.gitdaisy.works/incremental_ota_update.zip",
+      "version": "14"
+    }
+  ]
+}
