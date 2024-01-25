@@ -4,9 +4,11 @@
     "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
     "size": 302010,
     "url": "https://mirrors.gitdaisy.works/incremental_ota_update.zip",
-    "version": "14"
+    "version": "14",
     "filehash": "",
-    "maintainers": ["GitDaisy"],
+    "maintainers": [
+        "GitDaisy"
+    ],
     "error": false,
     "donate_url": "https://paypal.me/100Daisy",
     "website_url": "https://mirrors.gitdaisy.works/",
