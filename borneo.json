@@ -5,12 +5,11 @@
     "size": 302010,
     "url": "https://mirrors.gitdaisy.works/incremental_ota_update.zip",
     "version": "14",
-    "filehash": "",
+    "filehash": "ef8ca676c910f21099102c61794c2858",
     "maintainers": [
         "GitDaisy"
     ],
     "error": false,
     "donate_url": "https://paypal.me/100Daisy",
-    "website_url": "https://mirrors.gitdaisy.works/",
     "news_url": "https://t.me/GitDaisyShitposting"
 }
