@@ -1,11 +1,11 @@
 {
     "datetime": 1706151144,
-    "filename": "incremental_ota_update.zip",
+    "filename": "aosp_borneo-ota-eng.gitdaisy.zip",
     "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-    "size": 302010,
-    "url": "https://mirrors.gitdaisy.works/incremental_ota_update.zip",
-    "version": "14",
-    "filehash": "ef8ca676c910f21099102c61794c2858",
+    "size": 1493173148
+    "url": "https://mirrors.gitdaisy.works/aosp_borneo-ota-eng.gitdaisy.zip",
+    "version": "fourteen",
+    "filehash": "21d2fb77374b63cd58e4bce69a49e971",
     "maintainers": [
         "GitDaisy"
     ],
